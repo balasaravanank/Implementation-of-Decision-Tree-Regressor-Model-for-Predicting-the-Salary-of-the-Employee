@@ -70,6 +70,18 @@ plt.show()
 ```
 
 ## Output:
+## FIRST 5 ROWS OF THE DATASET
+![Screenshot 2025-04-21 220119](https://github.com/user-attachments/assets/e6256b17-d0a1-4d72-9566-265aa97e33b2)
+## DATASET INFORMATION (DATA TYPES AND NON-NULL COUNTS)
+![Screenshot 2025-04-21 220138](https://github.com/user-attachments/assets/f58cdce3-d0a6-4fbb-a121-ab7db26c6710)
+## DECISION TREE REGRESSOR
+![Screenshot 2025-04-21 220204](https://github.com/user-attachments/assets/1dc8ca35-9b8c-426c-8acc-e9b80091a4e8)
+## MEAN SQUARED ERROR (MSE) AND R2 SCORE
+![Screenshot 2025-04-21 220208](https://github.com/user-attachments/assets/e6bebd45-5e3e-48b5-aa07-426cf43ddd6f)
+## PREDICTED SALARY FOR INPUT [5, 6]
+![Screenshot 2025-04-21 220214](https://github.com/user-attachments/assets/93fe146a-ebc9-48ea-b16d-2c45e2e81009)
+## DECISION TREE VISUALIZATION
+![Screenshot 2025-04-21 220224](https://github.com/user-attachments/assets/f2b5cf44-6267-4ddf-8026-e708a2a6725e)
 
 
 ## Developed by : BALA SARAVANAN K
